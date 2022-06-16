@@ -8,7 +8,7 @@ const Card = (props) => {
       {props.children}
     </div>
   );
-  ss;
+  sss;
 };
 
 export default Card;
